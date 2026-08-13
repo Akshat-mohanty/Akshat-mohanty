@@ -27,5 +27,5 @@
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Akshat-mohanty&layout=compact&bg_color=fbf8f1&title_color=000000&text_color=000000" alt="Top Languages" />
 </div>
 <p align="center">
-  <i>Let's connect and build something awesome together! 🚀</i>
+  <i>Let's connect and build something awesome together! </i>
 </p>
