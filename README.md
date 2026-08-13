@@ -1,16 +1,15 @@
 # Hi there, I'm Akshat Mohanty 👋
 
-### 👨🏻‍💻 About Me
+###  About Me
 
-- 🔭 I’m currently working on **Developing my sole LLM including starting a LLC from scratch**
-- 🌱 I’m currently learning **Rust, Go and Bootstrap**
-- 👯 I’m looking to collaborate on **projects which require projects which require end-to-end full-stack development and creative problem solving**
-- 📫 How to reach me: **akshatwork578@gmail.com**
+-  I’m currently working on **working on a full-stack web application using the MERN stack**
+-  I’m currently learning **Rust, Go and Bootstrap**
+-  I’m looking to collaborate on **projects which require projects which require end-to-end full-stack development and creative problem solving**
 <!-- ⚡ My website: ** ** -->
 
 ---
 
-### 🛠️ Languages and Tools
+###  Languages and Tools
 
 <!-- You can replace these with actual badges later, or just list them as text for now -->
 - **Languages:** Java, JavaScript, Python, C++, TypeScript & Swift 
@@ -21,7 +20,7 @@
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Akshat-mohanty&show_icons=true&bg_color=fbf8f1&title_color=000000&text_color=000000&icon_color=000000" alt="GitHub Stats" />
