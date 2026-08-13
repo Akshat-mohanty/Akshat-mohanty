@@ -13,7 +13,7 @@
 
 <!-- You can replace these with actual badges later, or just list them as text for now -->
 - **Languages:** Java, JavaScript, Python, C++, TypeScript & Swift 
-- **Frontend:** HTML, CSS & React
+- **Frontend:** HTML, CSS, React & Framer Motion
 - **Backend:** Node.js, Express & Django
 - **Databases:** MySQL & MongoDB
 - **Tools:** Git, Docker & Cursor
