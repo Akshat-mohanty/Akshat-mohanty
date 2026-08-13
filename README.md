@@ -17,15 +17,16 @@
 - **Frontend:** HTML, CSS & React
 - **Backend:** Node.js, Express & Django
 - **Databases:** MySQL & MongoDB
-- **Tools:** Git, Docker & VS Code
+- **Tools:** Git, Docker & Cursor
 
 ---
 
 ### 📈 GitHub Stats
 
-* [ ] Top Languages
-* [ ] Commit History
-* [ ] Stars & Contributions
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 <p align="center">
   <i>Let's connect and build something awesome together! 🚀</i>
