@@ -85,21 +85,10 @@ I'm a **Software Engineer** based in **Mumbai, India** 🇮🇳, focused on craf
 ---
 
 ### 📊 GitHub Activity & Statistics
-
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=Akshat-mohanty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_radius=10" alt="Akshat's GitHub Stats" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-mohanty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat-mohanty&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&border_radius=10" alt="GitHub Streak" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshat-mohanty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=87dced&icon_color=87dced&text_color=c9d1d9&border_radius=8" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-mohanty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=87dced&text_color=c9d1d9&border_radius=8" alt="Top Languages" />
+  <br /><br />
+  <img src="https://streak-stats.demolab.com?user=Akshat-mohanty&theme=tokyonight&hide_border=true&background=0d1117&stroke=87dced&ring=87dced&fire=87dced&currStreakLabel=87dced&border_radius=8" alt="GitHub Streak" />
 </div>
