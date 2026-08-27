@@ -106,14 +106,6 @@ I'm a **Software Engineer** based in **Mumbai, India** 🇮🇳, focused on craf
 
 ---
 
-### 📬 Connect With Me
-
-<div align="center">
-
-  <a href="https://akshatwork.vercel.app"><img src="https://img.shields.io/badge/Portfolio-akshatwork.vercel.app-87dced?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>&nbsp;
-  <a href="https://x.com/Akshatmohanty"><img src="https://img.shields.io/badge/Twitter-%40Akshatmohanty-87dced?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="Twitter" /></a>&nbsp;
-  <a href="https://github.com/Akshat-mohanty"><img src="https://img.shields.io/badge/GitHub-Akshat--mohanty-87dced?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
-
   <br /><br />
 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
