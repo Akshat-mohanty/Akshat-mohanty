@@ -21,19 +21,19 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 I'm a **Software Engineer** based in **Mumbai, India** 🇮🇳, focused on crafting native macOS utilities, robust full-stack web applications, and developer tools.
 
-- 🔭 **Currently Building:** Native macOS applications using **SwiftUI** & high-performance web apps.
-- 🌱 **Learning & Exploring:** **Rust**, **Go**, and systems-level programming.
-- 🧠 **Deep Dives:** Classical Machine Learning algorithms from scratch and DSA design.
-- 💬 **Ask Me About:** `Swift` `TypeScript` `React` `Python` `Java` `Node.js` `C++`
-- ⚡ **Motto:** *"Trust God. Build with purpose."*
+-  **Currently Building:** Native macOS applications using **SwiftUI** & high-performance web apps.
+-  **Learning & Exploring:** **Rust**, **Go**, and systems-level programming.
+-  **Deep Dives:** Classical Machine Learning algorithms from scratch and DSA design.
+-  **Ask Me About:** `Swift` `TypeScript` `React` `Python` `Java` `Node.js` `C++`
+-  **Motto:** *"Trust God. Build with purpose."*
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+###  Tech Stack & Tooling
 
 <div align="center">
 
@@ -84,7 +84,7 @@ I'm a **Software Engineer** based in **Mumbai, India** 🇮🇳, focused on craf
 
 ---
 
-### 📊 GitHub Activity & Statistics
+###  GitHub Activity & Statistics
 
 <div align="center">
 
