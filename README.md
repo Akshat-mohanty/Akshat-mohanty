@@ -106,18 +106,6 @@ I'm a **Software Engineer** based in **Mumbai, India** 🇮🇳, focused on craf
 
 ---
 
-### 🚀 Highlighted Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🎬 [**Ascent-video-downloader**](https://github.com/Akshat-mohanty/Ascent-video-downloader) | A high-performance, aesthetic native macOS app designed to download YouTube videos in highest quality. | `Swift` `SwiftUI` `yt-dlp` `macOS` |
-| 🧠 [**Classic-ML**](https://github.com/Akshat-mohanty/Classic-ML) | Clean, dependency-free implementation of classical machine learning algorithms from scratch in Python. | `Python` `NumPy` `Algorithms` |
-| 💱 [**Currency-Converter**](https://github.com/Akshat-mohanty/Currency-Converter) | Modern currency calculator utilizing the Frankfurter API with smooth UI transitions and real-time rates. | `JavaScript` `HTML/CSS` `Framer Motion` |
-| 📚 [**Java-DSA-Library**](https://github.com/Akshat-mohanty/Java-DSA-Library) | Efficient, cleanly structured implementations of standard Data Structures & Algorithms. | `Java` `DSA` `OOP` |
-| 🗂️ [**File-Organiser**](https://github.com/Akshat-mohanty/File-Organiser) | Intelligent CLI utility for categorizing directories and bulk file management. | `Python` `CLI` `Automation` |
-
----
-
 ### 📬 Connect With Me
 
 <div align="center">
