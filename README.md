@@ -23,7 +23,7 @@
 
 ###  About Me
 
-I'm a **Software Engineer** based in **Mumbai, India** 🇮🇳, focused on crafting native macOS utilities, robust full-stack web applications, and developer tools.
+I'm a **Software Engineer** based in **India**, focused on crafting native macOS utilities, robust full-stack web applications, and developer tools.
 
 -  **Currently Building:** Native macOS applications using **SwiftUI** & high-performance web apps.
 -  **Learning & Exploring:** **Rust**, **Go**, and systems-level programming.
