@@ -103,11 +103,3 @@ I'm a **Software Engineer** based in **Mumbai, India** 🇮🇳, focused on craf
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat-mohanty&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&border_radius=10" alt="GitHub Streak" />
 
 </div>
-
----
-
-  <br /><br />
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
-
-</div>
