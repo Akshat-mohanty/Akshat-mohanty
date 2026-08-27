@@ -5,16 +5,16 @@
 
   <!-- Typewriter Effect -->
   <a href="https://akshatwork.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=ded978&center=true&vCenter=true&width=550&lines=Building+impactful+software+from+scratch;Full-Stack+Web+%26+Native+SwiftUI+Dev;Exploring+Systems%2C+Rust+%26+ML;Trust+God.+Keep+Building." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Building+impactful+software+from+scratch;Full-Stack+Web+%26+Native+SwiftUI+Dev;Exploring+Systems%2C+Rust+%26+ML;Trust+God.+Keep+Building." alt="Typing SVG" />
   </a>
 
   <br /><br />
 
   <!-- Aligned Social Badges -->
   <p align="center">
-    <a href="https://akshatwork.vercel.app"><img src="https://img.shields.io/badge/Portfolio-akshatwork.vercel.app-ded978?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>&nbsp;
-    <a href="https://x.com/Akshatmohanty"><img src="https://img.shields.io/badge/Twitter-%40Akshatmohanty-ded978?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="Twitter" /></a>&nbsp;
-    <a href="https://github.com/Akshat-mohanty"><img src="https://img.shields.io/badge/GitHub-Akshat--mohanty-ded978?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
+    <a href="https://akshatwork.vercel.app"><img src="https://img.shields.io/badge/Portfolio-akshatwork.vercel.app-87dced?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>&nbsp;
+    <a href="https://x.com/Akshatmohanty"><img src="https://img.shields.io/badge/Twitter-%40Akshatmohanty-87dced?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="Twitter" /></a>&nbsp;
+    <a href="https://github.com/Akshat-mohanty"><img src="https://img.shields.io/badge/GitHub-Akshat--mohanty-87dced?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
   </p>
 
 </div>
@@ -88,13 +88,13 @@ I'm a **Software Engineer** based in **Mumbai, India** 🇮🇳, focused on craf
 
 <div align="center">
 
-  <img src="https://github-stats-extended.vercel.app/api?username=Akshat-mohanty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ded978&icon_color=ded978&text_color=c9d1d9&border_radius=8" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Akshat-mohanty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=87dced&icon_color=87dced&text_color=c9d1d9&border_radius=8" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Akshat-mohanty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ded978&text_color=c9d1d9&border_radius=8" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Akshat-mohanty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=87dced&text_color=c9d1d9&border_radius=8" alt="Top Languages" />
 
   <br /><br />
 
-  <img src="https://streak-stats.demolab.com?user=Akshat-mohanty&theme=tokyonight&hide_border=true&background=0d1117&stroke=ded978&ring=ded978&fire=ded978&currStreakLabel=ded978&currStreakNum=ded978&sideNums=ded978&sideLabels=ded978&dates=c9d1d9&border_radius=8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Akshat-mohanty&theme=tokyonight&hide_border=true&background=0d1117&stroke=87dced&ring=87dced&fire=87dced&currStreakLabel=87dced&border_radius=8" alt="GitHub Streak" />
 
 </div>
 
@@ -116,9 +116,9 @@ I'm a **Software Engineer** based in **Mumbai, India** 🇮🇳, focused on craf
 
 <div align="center">
 
-  <a href="https://akshatwork.vercel.app"><img src="https://img.shields.io/badge/Portfolio-akshatwork.vercel.app-ded978?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>&nbsp;
-  <a href="https://x.com/Akshatmohanty"><img src="https://img.shields.io/badge/Twitter-%40Akshatmohanty-ded978?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="Twitter" /></a>&nbsp;
-  <a href="https://github.com/Akshat-mohanty"><img src="https://img.shields.io/badge/GitHub-Akshat--mohanty-ded978?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
+  <a href="https://akshatwork.vercel.app"><img src="https://img.shields.io/badge/Portfolio-akshatwork.vercel.app-87dced?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>&nbsp;
+  <a href="https://x.com/Akshatmohanty"><img src="https://img.shields.io/badge/Twitter-%40Akshatmohanty-87dced?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="Twitter" /></a>&nbsp;
+  <a href="https://github.com/Akshat-mohanty"><img src="https://img.shields.io/badge/GitHub-Akshat--mohanty-87dced?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
 
   <br /><br />
 
