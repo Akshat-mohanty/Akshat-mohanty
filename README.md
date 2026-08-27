@@ -86,9 +86,9 @@ I'm a **Software Engineer** based in **Mumbai, India** 🇮🇳, focused on craf
 
 ### 📊 GitHub Activity & Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshat-mohanty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=87dced&icon_color=87dced&text_color=c9d1d9&border_radius=8" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Akshat-mohanty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=87dced&icon_color=87dced&text_color=c9d1d9&border_radius=8" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-mohanty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=87dced&text_color=c9d1d9&border_radius=8" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Akshat-mohanty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=87dced&text_color=c9d1d9&border_radius=8" alt="Top Languages" />
   <br /><br />
   <img src="https://streak-stats.demolab.com?user=Akshat-mohanty&theme=tokyonight&hide_border=true&background=0d1117&stroke=87dced&ring=87dced&fire=87dced&currStreakLabel=87dced&border_radius=8" alt="GitHub Streak" />
 </div>
