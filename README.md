@@ -92,8 +92,4 @@ I'm a **Software Engineer** based in **Mumbai, India** 🇮🇳, focused on craf
   &nbsp;
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Akshat-mohanty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_radius=8" alt="Top Languages" />
 
-  <br /><br />
-
-  <img src="https://streak-stats.demolab.com?user=Akshat-mohanty&theme=tokyonight&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=c9d1d9&border_radius=8" alt="GitHub Streak" />
-
 </div>
